@@ -1,0 +1,6 @@
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\obj\Debug\SealedClass.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+D:\JT\CoreProgramm\Blog\C#\SealedClass\SealedClass\obj\Debug\SealedClass.pdb
